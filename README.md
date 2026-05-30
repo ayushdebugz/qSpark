@@ -1,5 +1,5 @@
-# qSpark
-# ✨ Quote Spark ✨ (https://ayushdebugz.github.io/qSpark/)
+# [qSpark](https://ayushdebugz.github.io/qSpark/)
+# [✨ Quote Spark ✨](https://ayushdebugz.github.io/qSpark/)
 
 > *"One click. One thought. Infinite clarity."*
 
